@@ -92,7 +92,7 @@
 		221BDE762886E81500E74F89 = {
 			isa = PBXGroup;
 			children = (
-				221BDE7B2886E81500E74F89 /* Shared */,
+				221BDE7B2886E81500E74F89 /* WatchAppleApp */,
 				221BDE8D2886E81B00E74F89 /* macOS */,
 				221BDE962886E81B00E74F89 /* Tests iOS */,
 				221BDEA22886E81C00E74F89 /* Tests macOS */,
@@ -100,7 +100,7 @@
 			);
 			sourceTree = "<group>";
 		};
-		221BDE7B2886E81500E74F89 /* Shared */ = {
+		221BDE7B2886E81500E74F89 /* WatchAppleApp */ = {
 			isa = PBXGroup;
 			children = (
 				221BDE7E2886E81500E74F89 /* appleWatchStoreApp.swift */,
@@ -109,7 +109,7 @@
 				221BDE812886E81B00E74F89 /* Assets.xcassets */,
 				221BDE7C2886E81500E74F89 /* appleWatchStore.xcdatamodeld */,
 			);
-			path = Shared;
+			path = WatchAppleApp;
 			sourceTree = "<group>";
 		};
 		221BDE872886E81B00E74F89 /* Products */ = {
